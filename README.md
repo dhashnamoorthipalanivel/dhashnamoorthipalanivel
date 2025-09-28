@@ -16,7 +16,7 @@
 ---
 
 ## 🛠️ I Code In
-![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white) 
+![Java](<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>) 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
