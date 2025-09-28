@@ -48,11 +48,10 @@
 ---
 
 ## 💻 Workspace Spec
-## 💻 Workspace Spec
 <p align="center">
-  <img height="30" src="https://img.shields.io/badge/ASUS-VivoBook_15-ED1C24?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS VivoBook 15"/> 
-  <img height="30" src="https://img.shields.io/badge/Intel-i3_11th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i3 11th Gen"/> 
-  <img height="30" src="https://img.shields.io/badge/RAM-8GB-6e6e6e?style=for-the-badge&logo=memory&logoColor=white" alt="8GB RAM"/>
+  <img height="28" src="https://img.shields.io/badge/ASUS-VivoBook_15-ED1C24?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS VivoBook 15"/> 
+  <img height="28" src="https://img.shields.io/badge/Intel-i3_11th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i3 11th Gen"/> 
+  <img height="28" src="https://img.shields.io/badge/RAM-8GB-6e6e6e?style=for-the-badge&logo=memory&logoColor=white" alt="8GB RAM"/>
 </p>
 
 
