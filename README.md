@@ -11,33 +11,37 @@
 - 🔭 I’m currently focused on **building scalable full-stack applications**  
 - 🌱 Exploring **modern frontend frameworks** and **backend integration**  
 - 💡 Interested in **Frontend Engineering, Full-Stack Development & Cloud-native Applications**  
-- ⚡ Pronouns: `React Ranger`  
+- ⚡ Nickname: `React Ranger`  
 
 ---
 
 ## 🛠️ I Code In
-<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java"/> 
-<img width="64" height="64" src="https://img.icons8.com/arcade/64/html-5.png" alt="html"/> 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css"/> 
-<img width="64" height="64" src="https://img.icons8.com/arcade/64/javascript.png" alt="javascript"/> 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/bootstrap.png" alt="bootstrap"/> 
-<img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/> 
-<img width="32" height="32" src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" alt="react"/>  
-<img width="48" height="48" src="https://img.icons8.com/color/48/redux.png" alt="redux"/> 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript"/> 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>  
-<img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/96/external-wixcom-ltd-is-an-israeli-cloud-based-web-development-logo-bold-tal-revivo.png" alt="wix"/> 
-<img width="96" height="96" src="https://img.icons8.com/color/96/shopify.png" alt="shopify"/> 
-<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/wordpress.png" alt="wordpress"/>  
+<p align="center">
+  <img src="https://img.icons8.com/3d-fluency/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/arcade/48/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/fluency/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/arcade/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/fluency/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/tailwindcss.png" alt="TailwindCSS"/>
+  <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-tritone-tal-revivo.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux Toolkit"/>
+  <img src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="TypeScript"/>
+  <img src="https://img.icons8.com/fluency/48/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/48/external-wixcom-ltd-is-an-israeli-cloud-based-web-development-logo-bold-tal-revivo.png" alt="Wix"/>
+  <img src="https://img.icons8.com/color/48/shopify.png" alt="Shopify"/>
+  <img src="https://img.icons8.com/3d-fluency/48/wordpress.png" alt="WordPress"/>
+</p>
 
 ---
 
 ## ⚙️ Tools I Use
-<img width="96" height="96" src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="vscode"/> 
-<img width="96" height="96" src="https://img.icons8.com/color/96/docker.png" alt="docker"/> 
-<img width="48" height="48" src="https://img.icons8.com/pulsar-gradient/48/git.png" alt="git"/> 
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/canva.png" alt="canva"/> 
-<img width="96" height="96" src="https://img.icons8.com/color/96/photopea.png" alt="photopea"/>  
+<p align="center">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/pulsar-gradient/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/fluency/48/canva.png" alt="Canva"/>
+  <img src="https://img.icons8.com/color/48/photopea.png" alt="Photopea"/>
+</p>
 
 ---
 
@@ -75,5 +79,3 @@
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhashnamoorthi-palanivel)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-
----
