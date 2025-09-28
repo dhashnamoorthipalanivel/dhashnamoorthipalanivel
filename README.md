@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 - 🔭 I’m currently focused on **building scalable full-stack applications**  
 - 🌱 Exploring **modern frontend frameworks** and **backend integration**  
-- 💡 Interested in **Frontend Engineering, Full-Stack Development & Cloud-native Applications**  
+- 💡 Interested in **Frontend Engineering, Full-Stack Development**  
 - ⚡ Nickname: `React Ranger`  
 
 ---
