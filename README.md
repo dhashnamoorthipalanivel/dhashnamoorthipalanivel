@@ -51,7 +51,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhashnamoorthipalanivel&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhashnamoorthipalanivel&layout=compact&theme=radical)  
 
-[![Dhashnamoorthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhashnamoorthipalanivel&bg_color=0d1117&color=1b9d01&line=014d00&point=00e650&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Dhashnamoorthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhashnamoorthipalanivel&bg_color=0d1117&color=1b9d01&line=6e36a6&point=e6009d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 ---
 
