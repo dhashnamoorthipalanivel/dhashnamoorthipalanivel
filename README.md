@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Dhashnamoorthi
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<!-- <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"> -->
 
 🚀 Aspiring Full-Stack Developer | Passionate about Web Development & Emerging Technologies  
 🎓 Currently pursuing B.E in Electronics and Communication Engineering at Nandha Engineering College  
@@ -48,8 +48,13 @@
 ---
 
 ## 💻 Workspace Spec
-`ASUS VivoBook 15`  
-💡 Intel Core i3 11th Gen – 1115G4  
+## 💻 Workspace Spec
+<p align="center">
+  <img height="30" src="https://img.shields.io/badge/ASUS-VivoBook_15-ED1C24?style=for-the-badge&logo=asus&logoColor=white" alt="ASUS VivoBook 15"/> 
+  <img height="30" src="https://img.shields.io/badge/Intel-i3_11th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i3 11th Gen"/> 
+  <img height="30" src="https://img.shields.io/badge/RAM-8GB-6e6e6e?style=for-the-badge&logo=memory&logoColor=white" alt="8GB RAM"/>
+</p>
+
 
 ---
 
