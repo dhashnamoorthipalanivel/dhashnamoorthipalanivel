@@ -16,6 +16,13 @@
 - ⚡ Nickname: `React Ranger`  
 
 ---
+
+## 🔗 Portfolio
+🚀 Check out my Portfolio: [[https://your-portfolio-link.com](https://dhashnamoorthipalanivel.github.io/dhashnamoorthi-palanivel-portfolio/)]([https://your-portfolio-link.com](https://dhashnamoorthipalanivel.github.io/dhashnamoorthi-palanivel-portfolio/))
+
+---
+
+
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/dhashnamoorthi-palanivel">
