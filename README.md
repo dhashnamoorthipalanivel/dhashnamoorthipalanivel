@@ -18,7 +18,7 @@
 ---
 
 ## 🔗 Portfolio
-🚀 Check out my Portfolio: [[https://your-portfolio-link.com](https://dhashnamoorthipalanivel.github.io/dhashnamoorthi-palanivel-portfolio/)]([https://your-portfolio-link.com](https://dhashnamoorthipalanivel.github.io/dhashnamoorthi-palanivel-portfolio/))
+🚀 Check out my Portfolio: (https://dhashnamoorthipalanivel.github.io/dhashnamoorthi-palanivel-portfolio/)
 
 ---
 
